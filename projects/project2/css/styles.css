@@ -1,0 +1,287 @@
+
+#container{
+	width:1460px;
+	height:5020px;
+	z-index: 2;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+#rosemaling{
+	background-image:url(../images/rosemaling1.png);
+	width:1460px;
+	min-height:5020px;
+	z-index: 4;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: -10px;
+	margin: auto;
+}
+
+#logging{
+	width:1460px;
+	min-height:300px;
+	float:left;
+	z-index:2;
+	background-image:url(../images/logging3.png);
+	margin: auto;
+}
+
+#flowers{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/flowers2.png);
+	margin: auto;
+}
+
+#lefse{
+	width:1460px;
+	min-height:200px;
+	background-position: bottom;
+	float:left;
+	z-index:2;
+	background-image:url(../images/lefse2.png);
+	margin: auto;
+}
+
+#bowl{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/bowl2.png);
+	margin: auto;
+}
+
+#treebark{
+	width:1460px;
+	min-height:300px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/treebark2.png);
+	margin: auto;
+
+}
+
+#tree1{
+	width:1460px;
+	min-height:100px;
+	background-position: top;
+	float:left;
+	z-index:2;
+	background-image:url(../images/tree3.png);
+	margin: auto;
+	color: darkred;
+	font-size: 72pt;
+	text-align: center;
+	font-family: "Clavo", "Book Antiqua", serif;
+	font-style: bold;
+	margin:auto;
+}
+
+#tree2{
+	width:1460px;
+	min-height:100px;
+	background-position: -100px;
+	float:left;
+	z-index:2;
+	background-image:url(../images/tree3.png);
+	margin: auto;
+	color: darkred;
+	font-size: 36pt;
+	text-align: center;
+	font-family: "Clavo", "Book Antiqua", serif;
+	font-style: bold;
+	margin:auto;
+}
+
+#tree3{
+	width:1460px;
+	min-height:100px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/tree3.png);
+	margin: auto;
+	color: darkred;
+	font-size: 36pt;
+	text-align: center;
+	font-family: "Clavo", "Book Antiqua", serif;
+	font-style: bold;
+	margin:auto;
+}
+
+
+#tree4{
+	width:1460px;
+	min-height:100px;
+	background-position: bottom;
+	float:left;
+	z-index:2;
+	background-image:url(../images/tree3.png);
+	margin: auto;
+	color: darkred;
+	font-size: 36pt;
+	text-align: center;
+	font-family: "Clavo", "Book Antiqua", serif;
+	font-style: bold;
+	margin:auto;
+
+}
+
+#besta{
+	width:1460px;
+	min-height:300px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/besta2.png);
+	margin: auto;
+}
+
+#krumkake{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/krumkake2.png);
+	margin: auto;
+}
+
+#family{
+	width:1460px;
+	min-height:300px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/family2.png);
+	margin: auto;
+}
+
+#seattle{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/seattle2.png);
+	margin: auto;
+}
+
+#quilt1{
+	width:1460px;
+	min-height:300px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/1quilt.png);
+	margin: auto;
+}
+
+#quilt2{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/2quilt.png);
+	margin: auto;
+}
+
+
+#quilt3{
+	width:1460px;
+	min-height:400px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/3quilt.png);
+	margin: auto;
+}
+
+#quilt4{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/4quilt.png);
+	margin: auto;
+
+}
+
+
+#quilt5{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/5quilt.png);
+	margin: auto;
+}
+
+#quilt6{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/6quilt.png);
+	margin: auto;
+	}
+
+
+#quilt7{
+	width:1460px;
+	min-height:200px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/7quilt.png);
+	margin: auto;
+	}
+
+#woods{
+	width:1460px;
+	min-height:300px;
+	background-position: center;
+	float:left;
+	z-index:2;
+	background-image:url(../images/woods2.png);
+	margin: auto;
+}
+
+
+#flag{
+	width:1460px;
+	min-height:300px;
+	background-position: top;
+	float:left;
+	z-index:2;
+	background-image:url(../images/flag2.png);
+	margin: auto;
+	
+}
+
+#text{
+	min-height: 300px;
+	padding-top: 20px;
+	padding-left: 20px;
+	width: 1300px;
+	position:center;
+	color: white;
+	font-size: 14pt;
+	text-align: left;
+	font-family: "Clavo", "Book Antiqua", serif;
+	font-style: bold;
+	margin:auto;
+	opacity: .8;
+}
