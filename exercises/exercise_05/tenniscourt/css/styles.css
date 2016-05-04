@@ -1,0 +1,50 @@
+
+
+#container {
+
+ width:1400px;
+ height:2000px;
+
+}
+
+#black {
+
+ width:200px;
+ height:600px;
+ float: left;
+ margin-bottom: 5px;
+ background-color: black;
+}
+
+#black2 {
+
+ width:200px;
+ height:600px;
+ float: bottom;
+ margin-bottom: 5px;
+ background-color: black;
+}
+
+#green {
+ width: 600px;
+ height: 400px;
+ float: left;
+ margin-left: 5px;
+ background: green;
+}
+
+#pink {
+ width: 600px;
+ height: 200px;
+ margin-bottom: 5px;
+ float:left;
+ background-color: pink;
+}
+
+#yellow {
+ width: 300px;
+ height: 400px;
+ margin-bottom: 5px;
+ float:left;
+ background-color: yellow;
+}

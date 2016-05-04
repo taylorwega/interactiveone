@@ -1,0 +1,23 @@
+#container {
+	width: 800px;
+	height: 1000px;
+
+}
+
+
+
+#square {
+	width: 100px;
+	height: 100px;
+	background: red;
+	float:left;
+	
+}
+
+#square2 {
+	width: 100px;
+	height: 100px;
+	background: white;
+	float:left;
+	
+}
