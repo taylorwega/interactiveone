@@ -1,0 +1,29 @@
+body {
+	background-color: yellow;
+}
+
+#artist {
+	width :300px;
+	height :400px;
+	background-color: yellow;
+	color: green;
+	margin-top: 72px;
+	padding-left: 30px;
+	font-family: Helvetica;
+	font-size: 60px;
+}
+
+.sidebar {
+	background-color: blue;
+	height: 200px;
+	width: 700px;
+	color: yellow;
+}
+
+#painter {
+	color: green;
+}
+
+#sculpter {
+	color: white;
+}
