@@ -1,0 +1,109 @@
+body {
+	background:#CCCC33;
+	
+}
+
+
+#header {
+	width: 2400px;
+	height:400px;
+	float:left;
+	margin: auto;
+	padding-left:100px;
+	font-family: impact;
+	font-size: 36px;
+	color: #EF3B4B;
+	
+}
+
+#intro {
+	width: 500px;
+	height: 400px;
+	color: #CCCC33;
+	font-family: impact;
+	font-weight: lighter;
+	float: bottom;
+	font-size:18px;
+	text-align: left;
+	margin:center;
+
+}
+
+#pullquote {
+	width: 650px;
+	height: 100px;
+	color: #EF3B4B;
+	font-family: impact, sans-serif;
+	font-weight: bolder;
+	float: right;
+	font-size: 32px;
+	text-align:left;
+}
+
+#freddie {
+	width: 490px;
+	height: auto;
+	color: 000;
+	font-family: impact, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	float:bottom;
+	padding-top: 24px;
+	padding-left: 150px;
+}
+
+
+
+
+#pics {
+	float:right;
+	color: #EF3B4B;
+	font-family: impact, sans-serif;
+	font-weight: bolder;
+	font-size: 36px;
+	text-align:bottom;
+}
+
+
+#interviewer {
+	width:490px;
+	height: auto;
+	color:000;
+	font-family: impact, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	padding-top: 24px;
+	padding-left: 150px;
+	float: bottom;
+
+}
+
+h2 {
+	color: aqua;
+	font-family: Impact, sans-serif;
+	font-weight: lighter;
+	text-align: center;
+}
+
+p{
+	font-family: times;
+	text-align: left;
+	margin:auto;
+}
+
+ol {
+	font-family: Impact;
+	color: orange;
+	font-size: 120px;
+}
+
+#link {
+	width:200px;
+	height: 200px;
+	float:right;
+}
+
+a { 
+	color: #EF3B4B;
+	
+}
