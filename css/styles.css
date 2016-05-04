@@ -1,0 +1,103 @@
+
+
+#animation{
+    position:fixed;
+    left:-20;top:-20;right:0;bottom:0;
+    overflow: none;
+    z-index:-1;
+}
+
+#bg {
+    position:fixed;
+    left:0;top:0;width:200%;height:400%;
+    padding:0;margin:auto;
+    border-radius: 50%;
+    background: linear-gradient(0deg, skyblue, mistyrose, orange);
+    animation: spin 15s linear infinite;
+    -moz-animation: spin 15s linear infinite;
+    -webkit-animation: spin 15s linear infinite;
+    -ms-animation: spin 15s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: scale3d(2,2,1) rotateZ(0deg);  }
+    to { transform: scale3d(2,2,1) rotateZ(360deg); }
+}
+@-moz-keyframes spin {
+    from { -moz-transform: scale3d(2,2,1) rotateZ(0deg); }
+    to { -moz-transform: scale3d(2,2,1) rotateZ(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: scale3d(2,2,1) rotateZ(0deg); }
+    to { -webkit-transform: scale3d(2,2,1) rotateZ(360deg); }
+}
+@-ms-keyframes spin {
+    from { -ms-transform: scale3d(2,2,1) rotateZ(0deg); }
+    to { -ms-transform: scale3d(2,2,1) rotateZ(360deg); }
+}
+
+
+h1{ 
+	padding-top: 200px;
+	color: #ffffff;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 36px;
+	font-style: lighter;
+}
+
+h2{
+	color: #ffffff;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 24px;
+	font-style: lighter;
+  float:below;
+  padding-top: 40px;
+}
+
+h3{
+	color: white;
+  text-decoration: none;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 16px;
+	font-style: lighter;
+  
+}
+
+h4{
+	color: #ffffff;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 16px;
+	font-style: lighter;
+	padding-top: 36px;
+}
+
+
+
+body {
+  font: 600 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+  margin: 12px 0;
+  text-decoration: none;
+}
+
+
+#projects {
+    text-decoration: none;
+  width:150px;
+  height: 60px;
+  text-align: center;
+  margin:auto;
+  float:below;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-style: lighter;
+  padding-top: 50px;
+  text-decoration: none;
+}
+
